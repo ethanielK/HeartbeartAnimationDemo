@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.35806.103
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeartbeartAnimationDemo", "HeartbeartAnimationDemo\HeartbeartAnimationDemo.csproj", "{53B8ACD5-70B3-45C9-AED9-B376D246FD1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53B8ACD5-70B3-45C9-AED9-B376D246FD1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B8ACD5-70B3-45C9-AED9-B376D246FD1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B8ACD5-70B3-45C9-AED9-B376D246FD1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B8ACD5-70B3-45C9-AED9-B376D246FD1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDF0588C-42DD-41D6-A634-326353F5E882}
+	EndGlobalSection
+EndGlobal
